@@ -24,7 +24,21 @@ There is no work experience yet, several projects have been created without usin
 - JS basic
 
 ## Code example
-Since in the comments to the task, it is indicated that it is necessary to attach code from codewar, without knowledge of JS, I cannot do this
+
+
+let numbCentury;
+function century(year) {
+  let year1 = String(year);
+  let yearsubs = year1.substr(-2, 2)
+  if (yearsubs == "00"){
+  let century1 = +year1.slice(0,-2);
+  return century1;
+  } else {
+    let century1 = +year1.slice(0,-2) + 1;
+    return century1;
+  }
+}
+console.log(century(11101))
 ## Expirience
 ## Education 
 - BSU Law College (2013-2017)
