@@ -1,12 +1,13 @@
 # Vonyarkha Viktor 
+![Photo](https://user-images.githubusercontent.com/89303854/158432277-61d781dd-91ca-42a7-9dd1-06edbce4e2b2.jpg)
 
-Contacts
+## Contacts
 Phone: +7 (918) 859-17-67
 
 Email: webdevvva@gmail.com
 
 Discord: Viktor (@Viktor1905) 
-About me
+## About me
 I graduated from the Law Faculty of BSU. I worked as a lawyer for 3 years, 1 of which after graduation.At the age of 24 years old I realized my attraction to computers and the desire to create something in IT sphere.
 
 
@@ -17,18 +18,16 @@ My strengths are: a good level of interpersonal communication, leadership, respo
 
 
 There is no work experience yet, several projects have been created without using JS, only on CSS, HTML.
-Skills
-HTML
-CSS
-JS basic
+## Skills
+- HTML
+- CSS
+- JS basic
 
-Code example
+## Code example
 Since in the comments to the task, it is indicated that it is necessary to attach code from codewar, without knowledge of JS, I cannot do this
-Expirience
-Education 
-BSU Law College (2013-2017)
-
-
-BSU Law Faculty (2017-2020)
-Enlgish
+## Expirience
+## Education 
+- BSU Law College (2013-2017)
+- BSU Law Faculty (2017-2020)
+## Enlgish
 A2 
