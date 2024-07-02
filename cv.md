@@ -21,7 +21,8 @@ There is no work experience yet, several projects have been created without usin
 ## Skills
 - HTML
 - CSS
-- JS basic
+- JS
+- React(basic)
 
 ## Code example
 
