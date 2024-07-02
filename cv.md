@@ -2,7 +2,7 @@
 ![Photo](https://user-images.githubusercontent.com/89303854/158432277-61d781dd-91ca-42a7-9dd1-06edbce4e2b2.jpg)
 
 ## Contacts
-Phone: +7 (918) 859-17-67
+Phone: +7 (918) 859-17-67, +375 (25) 541-24-31
 
 Email: webdevvva@gmail.com
 
