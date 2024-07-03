@@ -102,3 +102,8 @@ h2{
 .link:hover{
     color: red;
 }
+code{
+    display: block;
+    background-color: black;
+    color:white;
+}
