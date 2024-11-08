@@ -91,6 +91,9 @@ h2{
     min-height: 70px;
     background-color: rgb(6, 90, 6);
 }
+.logo{
+    width: 50px
+}
 .footer-wrapper{
     min-height: 70px;
     display: flex;
