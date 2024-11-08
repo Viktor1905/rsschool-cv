@@ -12,10 +12,15 @@ body{
     min-height: 70px;
     display: flex;
     justify-content: space-around;
-    align-items: center; 
+    align-items: center;
     max-width: 1920px;
     margin: 0 auto;
     box-sizing: border-box;
+}
+.header-nav>ul{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
 }
 .header-nav-link{
     text-decoration: none;
@@ -41,8 +46,8 @@ main{
     border-radius: 20%;
 }
 .FIO{
-   text-transform: uppercase;
-   border-bottom: 4px solid rgb(6, 90, 6);
+    text-transform: uppercase;
+    border-bottom: 4px solid rgb(6, 90, 6);
     font-size: 25pt;
 }
 h2{
@@ -101,4 +106,9 @@ h2{
 }
 .link:hover{
     color: red;
+}
+code{
+    display: block;
+    background-color: black;
+    color:white;
 }
